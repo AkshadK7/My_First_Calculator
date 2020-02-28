@@ -1,1 +1,1 @@
-A JS based Scientific Calculator
+A JS based Scientific Calculator Web Application
